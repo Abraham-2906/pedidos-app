@@ -4,10 +4,10 @@
     <selectionStates>
       <SelectionState runConfigName="app">
         <option name="selectionMode" value="DROPDOWN" />
-        <DropdownSelection timestamp="2026-11-03T15:59:00.078768400Z">
+        <DropdownSelection timestamp="2026-11-05T16:57:38.260716Z">
           <Target type="DEFAULT_BOOT">
             <handle>
-              <DeviceId pluginId="LocalEmulator" identifier="path=C:\Users\echav\.android\avd\Medium_Phone.avd" />
+              <DeviceId pluginId="Wireless" identifier="serviceName=adb-AF2SVB3828014180-K3ToPU" />
             </handle>
           </Target>
         </DropdownSelection>
